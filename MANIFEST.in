@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include djblog_wordpress_importer/templates *.html 
+recursive-include djblog_wordpress_importer/static *.js *.css *.scss
